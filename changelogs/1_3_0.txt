@@ -1,0 +1,30 @@
+Update 1.3 (server)
+
+ 
+
+removed client mods-----------------------------------------------------------------------
+
+ 
+
+Client Tweaks
+
+Controlling
+
+Custom Main menu
+
+inventory tweaks
+
+more overlays
+
+mouse tweaks
+
+potion icon remover
+
+ReAuth
+
+smooth font
+
+tip the scales
+
+Toast Control
+
