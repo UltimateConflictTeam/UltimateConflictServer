@@ -1,0 +1,60 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bewitchment:book_of_shadows": {
+      "viewedEntries": [
+        "bewitchment:world/animals"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bewitchment:world/animals"
+      ],
+      "completedManualQuests": []
+    },
+    "roots:roots_guide": {
+      "viewedEntries": [
+        "roots:basics/letter",
+        "roots:basics/introduction",
+        "roots:basics/bucket_of_water",
+        "roots:basics/groves",
+        "roots:basics/crafting",
+        "roots:basics/resources",
+        "roots:basics/pyre",
+        "roots:basics/spells",
+        "roots:herbs/terra_moss",
+        "roots:herbs/wildroot",
+        "roots:spells/spell_grove_supplication",
+        "roots:resources/amethyst",
+        "roots:resources/petals",
+        "roots:resources/aubergine",
+        "roots:resources/bark",
+        "roots:apparatus/component_pouch",
+        "roots:apparatus/mortar",
+        "roots:apparatus/knives",
+        "roots:herbs/dewgonia",
+        "roots:spells/spell_growth_infusion",
+        "roots:rituals/ritual_overgrowth",
+        "roots:rituals/ritual_healing_aura",
+        "roots:rituals/ritual_flower_growth"
+      ],
+      "bookmarks": [],
+      "history": [
+        "roots:apparatus/mortar",
+        "roots:resources/petals",
+        "roots:rituals/ritual_flower_growth",
+        "roots:rituals/ritual_healing_aura",
+        "roots:rituals/ritual_overgrowth",
+        "roots:spells/spell_growth_infusion",
+        "roots:herbs/dewgonia",
+        "roots:herbs/terra_moss",
+        "roots:basics/pyre",
+        "roots:apparatus/component_pouch",
+        "roots:apparatus/knives",
+        "roots:resources/bark",
+        "roots:resources/aubergine"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
