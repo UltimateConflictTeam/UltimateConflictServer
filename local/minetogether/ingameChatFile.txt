@@ -1,3 +1,0 @@
-#
-#Sat Aug 17 17:19:40 EDT 2019
-ingameChat=8e7c4e83c19e532790e5bb673772689b

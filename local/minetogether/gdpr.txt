@@ -1,3 +1,0 @@
-#By changing the setting below to TRUE you are indicating your agreement to CreeperHost's privacy policy (https://www.creeperhost.net/privacy) and Terms of Service (https://www.creeperhost.net/tos).
-#Sat Aug 17 17:11:10 EDT 2019
-gdpr=8e7c4e83c19e532790e5bb673772689b
