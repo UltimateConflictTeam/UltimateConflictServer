@@ -1,5 +1,6 @@
-world/
-screenshots/
-logs/
-crash-reports/
-reports/
+/*
+!/mods/
+!/config/
+!StartServer.sh
+!.gitignore
+!README.md
